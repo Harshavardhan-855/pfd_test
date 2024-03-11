@@ -1,0 +1,60 @@
+magic
+tech sky130A
+timestamp 1708432929
+<< checkpaint >>
+rect -630 2598 9171 2670
+rect -649 2526 9171 2598
+rect -668 2466 9171 2526
+rect -1080 -330 9171 2466
+rect -1080 -402 9114 -330
+rect -1080 -474 9057 -402
+rect -1080 -534 6197 -474
+use pfd  pfd_0
+timestamp 1708432371
+transform 1 0 -393 0 1 1240
+box -57 -1144 2790 596
+use pfd  pfd_1
+timestamp 1708432371
+transform 1 0 1192 0 1 1240
+box -57 -1144 2790 596
+use pfd  pfd_2
+timestamp 1708432371
+transform 1 0 2777 0 1 1240
+box -57 -1144 2790 596
+use pfd  pfd_3
+timestamp 1708432371
+transform 1 0 19 0 1 1300
+box -57 -1144 2790 596
+use pfd  pfd_4
+timestamp 1708432371
+transform 1 0 2828 0 1 1300
+box -57 -1144 2790 596
+use pfd  pfd_5
+timestamp 1708432371
+transform 1 0 5637 0 1 1300
+box -57 -1144 2790 596
+use pfd  pfd_6
+timestamp 1708432371
+transform 1 0 57 0 1 1444
+box -57 -1144 2790 596
+use pfd  pfd_7
+timestamp 1708432371
+transform 1 0 2904 0 1 1444
+box -57 -1144 2790 596
+use pfd  pfd_8
+timestamp 1708432371
+transform 1 0 5751 0 1 1444
+box -57 -1144 2790 596
+use pfd  x1
+timestamp 1708432371
+transform 1 0 38 0 1 1372
+box -57 -1144 2790 596
+use pfd  x2
+timestamp 1708432371
+transform 1 0 2866 0 1 1372
+box -57 -1144 2790 596
+use pfd  x3
+timestamp 1708432371
+transform 1 0 5694 0 1 1372
+box -57 -1144 2790 596
+<< end >>
